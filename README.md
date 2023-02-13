@@ -1,6 +1,11 @@
 # Robot-Memory-Game
 Analyzing How Different Robot Signals Aid in Human Memory through an Interactive Memory Game
 
+#### Link to Code:
+https://github.com/aashiperun/Robot-Memory-Game/blob/main/Robot_Memory_Game_m1.py
+
+https://github.com/aashiperun/Robot-Memory-Game/blob/main/Robot_Memory_Game_m2.py
+
 ### ABSTRACT
 A key aspect in communication is capturing a person's attention for a long period of time. In HRI, it is challenging to design a robot that not only captures a human's attention but also holds it over time. With use cases where humans are learning from robots, for example, robot tutors in a classroom, it becomes increasingly important to test the human’s memory when they are taught by a robot as compared to a human. In this paper we explore different ways to solve this attention problem by creating an interactive memory game. The memory game had two rounds that took place on the same grid we created on the floor. In the first round, the robot traced a pattern on the grid, and in the second round the human was asked to retrace that pattern on the grid using a controller to test their memory. We evaluated the human’s memory based on the number of points they got right while retracing the pattern created by the robot. The goal of this experiment is to understand if a sound signal created by a robot is more memorable to humans. The results of this study could positively impact HRI by helping bring confidence to researchers who would want to use robots to gain attention and relay important information to humans.
 
